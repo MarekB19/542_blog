@@ -6,10 +6,7 @@ categories: [news, code, analysis]
 image: "image.jpg"
 ---
 
-This is a post with executable code.
-
-
-# So what are all these Data science jobs all about?
+# So what are all these Data science jobs about anyways?
 ## An introductory guide to the careers available in the world of data science
 
 
@@ -22,12 +19,32 @@ Following this mini existential-crisis, I went on a deep dive, and compiled belo
 So maybe you’ve only recently heard of data science. Maybe you are soon to be graduating from a data science program, and are looking at where to apply hard earned skills! Or maybe you are considering a career pivot, and want to learn more about the opportunities available before you look for a bootcamp or program to teach you the necessary skills. Whatever the reason, I hope this guide helps you - as it helped me - to discover what potential jobs data science has to offer!
 
 
-## So what exactly is Data Science
+## What exactly is Data Science
 
 Before we launch into the nitty gritty details of different job titles, it’s worth getting a high overview of what is data science. In general terms, data science is the process of using large amounts of data to extract meaningful insights. It combines computer science with mathematics and statistics to build models to derive these conclusions. The applications of the field are far ranging. While tech is the first industry that often comes to mind, data science has many applications in fields like: 
- - Healthcare
- - Finance
- - Education
- - Entertainment
- - Government
+* Healthcare
+* Finance
+* Education
+* Entertainment
+* Government
 
+There are many MANY aspects and sub category to data science, but a gross simplification of a typical data science workflow can be seen as follows:
+1.
+2.
+3.
+The diagram below gives a visualization of these steps. Lets now explore how some jobs relate to this general workflow!
+
+## 1: The Data Analyst
+First up is the data analyst. The main role of a data analyst is to interpret historical data in order to inform business decisions. This position will generally tend to work with cleaner, well organized data, and apply basic statistical concepts to derive meaningful results. There are a few factors that separate a data analyst from other roles:
+1. An analyst will be expected to communicate results to a broad audience. Above other roles, there is a large emphasis on the ability to effectively communicate results through effective visual tools and reporting. 
+2. While Data analysts are expected to do some data wrangling and statistical inference, they typically are not generating complex machine learning models
+3. This role would be considered a good entry point into the data science world, as it does not require as specialized an education or list of skills
+
+### Example task for data analyst:
+Working for a credit card firm, a data analyst may go through historical transaction data from credit card customers to uncover trends in spending behaviors, which could then be acted on from the company side. These might include:
+* most common spending categories 
+* peak spending times 
+* regions where customers tend to spend the most money
+
+### Key Skills:
+A data scientist will typically come from some sort of technical background. Generally a bachelor’s degree in a field such as mathematics or statistics.. Presented in the table below are key skills for the role: 
