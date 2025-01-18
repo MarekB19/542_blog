@@ -22,3 +22,12 @@ Following this mini existential-crisis, I went on a deep dive, and compiled belo
 So maybe you’ve only recently heard of data science. Maybe you are soon to be graduating from a data science program, and are looking at where to apply hard earned skills! Or maybe you are considering a career pivot, and want to learn more about the opportunities available before you look for a bootcamp or program to teach you the necessary skills. Whatever the reason, I hope this guide helps you - as it helped me - to discover what potential jobs data science has to offer!
 
 
+## So what exactly is Data Science
+
+Before we launch into the nitty gritty details of different job titles, it’s worth getting a high overview of what is data science. In general terms, data science is the process of using large amounts of data to extract meaningful insights. It combines computer science with mathematics and statistics to build models to derive these conclusions. The applications of the field are far ranging. While tech is the first industry that often comes to mind, data science has many applications in fields like: 
+ - Healthcare
+ - Finance
+ - Education
+ - Entertainment
+ - Government
+
