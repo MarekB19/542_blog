@@ -10,7 +10,7 @@ image: "image.jpg"
 ## An introductory guide to the careers available in the world of data science
 
 
-Data science is a field catching a lot of attention in the media these days. With the advent of chatGPT and other LLMs, it seems like every company is lining up to claim how they’ve “integrated AI” into their product. And for the most part, this attention is well warranted; as a relatively new field, data science is growing at an impressive speed [need source], and has applicability in nearly every work sector. So as with any emerging field, a lot of buzzwords have come out in the last few years, and with them, so have a lot of new sections of the field of data science, and their attached jobs.
+Data science is a field catching a lot of attention in the media these days. With the advent of chatGPT and other LLMs, it seems like every company is lining up to claim how they’ve “integrated AI” into their product. And for the most part, this attention is well warranted; as a relatively new field, data science is growing at an impressive speed, and has applicability in nearly every work sector. So as with any emerging field, a lot of buzzwords have come out in the last few years, and with them, so have a lot of new sections of the field of data science, and their attached jobs.
 
 It’s with a bit of embarrassment that I admit that halfway through a Master’s degree in Data science, it occurred to me I still didn’t have a good grasp on what jobs are available out there in the real world. I had heard a lot of terms floating around - Analyst versus data scientist versus machine learning engineer - but I didn’t have a good grasp on how each related to the concepts I had learnt since beginning my journey in the field.
 
