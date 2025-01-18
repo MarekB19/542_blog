@@ -35,9 +35,9 @@ There are many MANY aspects and sub category to data science, but a gross simpli
 2. Machine Learning analysis: where ML models are created, and tuned for a specific application
 3. Deployment: where the model is scaled up for final stakeholder use
 
-The diagram below gives a visualization of these steps. Lets now explore how some jobs relate to this general workflow!
+The diagram below ( which i adapted from [this article]([Quarto](https://quarto.org)) ) gives a visualization of these steps. Lets now explore how some jobs relate to this general workflow!
 
-![](DSCI_workflow.jpg.jpg)
+![](DSCI_workflow.png)
 
 ## 1: The Data Analyst
 First up is the data analyst. The main role of a data analyst is to interpret historical data in order to inform business decisions. This position will generally tend to work with cleaner, well organized data, and apply basic statistical concepts to derive meaningful results. There are a few factors that separate a data analyst from other roles:
@@ -54,8 +54,9 @@ Working for a credit card firm, a data analyst may go through historical transac
 * regions where customers tend to spend the most money
 
 ### Key Skills:
-A data scientist will typically come from some sort of technical background. Generally a bachelor’s degree in a field such as mathematics or statistics.. Presented in the table below are key skills for the role: 
+A data analyst will typically come from some sort of technical background. Generally a bachelor’s degree in a field such as mathematics or statistics.. Presented in the table below are key skills for the role: 
 
+![](skills_analyst.png)
 
 ## 2: The data Scientist
 Next is the data scientist. The main role of a data scientist is to use advanced statistical methods to build machine learning models that predict future outcomes or recommend actions. There are a few things that set data scientist apart from their analyst counterparts:
@@ -70,6 +71,7 @@ A data scientist in a healthcare setting might develop a predictive model that f
 ### Key Skills:
 Data scientist roles will typically require a deeper education in the field of data science compared to analysts. This may include a masters in the field of data science or other related field. A summary of key skills for a data scientist is in the table below
 
+![](skills_data_scientist.png)
 
 ## 3: The data Engineer
 A data engineer works at the backbone of the data science workflow. He is responsible for creating data infrastructures and pipelines, making data ready for analysis by data scientists or analysts. He differs from the previous roles in the following ways:
@@ -85,6 +87,7 @@ In a manufacturing company, a data engineer might be responsible for building a 
 ### Key Skills
 Here are some key skills for a data engineer
 
+![](skills_data_engineer.png)
 
 ## 4: The Machine Learning Engineer
 Lastly, the Machine learning engineer is someone who generally works towards the tail end of the data science workflow. ML engineers will typically closely alongside data scientists, and will take a completed model and work on bringing it up to deployment. They will typically be in charge of creating the platform that will host the final machine learning model, as well as be in charge of maintenance and update of the model. Here are some more details on how they relate to the other roles mentioned:
@@ -99,13 +102,17 @@ Working for a power company, a Machine Learning Engineer could take a predictive
 ### Key Skills
 Here’s a final comparison of the skills for each role!
 
+![](skills_final.png)
+
 ## Final Recap
 So there you have it! A brief overview of some of the more prominent careers in data science. Here’s a quick recap of the specific roles of each:
 
-* Data Engineer:
-* Data Analyst:
-* Data Scientist:
-* Machine learning engineer:
+* Data Engineer: Specializes at creating appropriate ata structures and data pipelines
+* Data Analyst: Focuses on analyzing trends from historical data with purpose of deriving and communicating insights to stakeholders
+* Data Scientist: Uses in depth Machine learning and statistical knowledge to create predictive models
+* Machine learning engineer: Focuses on deployment of models and maintenance, ensuring proper function of system
+
+![](skills_diagram.png)
 
 It's important to note that there are many, MANY more positions than these 4. As well, within each position I mentioned, there are ways to further specialize on a particular topic. Lastly, many firms won’t have a clear delineation between each role, and you might find yourself wearing many hats in your future career.  But hopefully this guide served as a good way to dip your toes and see what’s out there!
 
