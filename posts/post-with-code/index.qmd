@@ -22,6 +22,7 @@ So maybe you’ve only recently heard of data science. Maybe you are soon to be 
 ## What exactly is Data Science
 
 Before we launch into the nitty gritty details of different job titles, it’s worth getting a high overview of what is data science. In general terms, data science is the process of using large amounts of data to extract meaningful insights. It combines computer science with mathematics and statistics to build models to derive these conclusions. The applications of the field are far ranging. While tech is the first industry that often comes to mind, data science has many applications in fields like: 
+
 * Healthcare
 * Finance
 * Education
@@ -48,3 +49,19 @@ Working for a credit card firm, a data analyst may go through historical transac
 
 ### Key Skills:
 A data scientist will typically come from some sort of technical background. Generally a bachelor’s degree in a field such as mathematics or statistics.. Presented in the table below are key skills for the role: 
+
+
+## 2: The data Scientist
+Next is the data scientist. The main role of a data scientist is to use advanced statistical methods to build machine learning models that predict future outcomes or recommend actions. There are a few things that set data scientist apart from their analyst counterparts:
+1. While analysts typically analyze trends from past data, data scientists place more emphasis on prediction, and prescriptive analytics
+2. They may tend to work with more unstructured data
+3. The position will require knowledge of advanced machine learning topics, and capacity to implement these via more developed programming skills
+
+### Example task for data scientist
+A data scientist in a healthcare setting might develop a predictive model that forecasts the likelihood of a patient being readmitted to a hospital within 30 days after discharge. The model would use a variety of structured (medical history, demographics) and unstructured data (doctor notes, lab reports) and employ machine learning algorithms to make predictions.
+
+### Key Skills:
+Data scientist roles will typically require a deeper education in the field of data science compared to analysts. This may include a masters in the field of data science or other related field. A summary of key skills for a data scientist is in the table below
+
+
+## 3: The data Engineer
