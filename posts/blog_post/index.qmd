@@ -31,10 +31,13 @@ Before we launch into the nitty gritty details of different job titles, it’s w
 
 There are many MANY aspects and sub category to data science, but a gross simplification of a typical data science workflow can be seen as follows:
 
-1.
-2.
-3.
+1. Data Production : Where raw data is procured, cleaned, and stored in a way that is useable 
+2. Machine Learning analysis: where ML models are created, and tuned for a specific application
+3. Deployment: where the model is scaled up for final stakeholder use
+
 The diagram below gives a visualization of these steps. Lets now explore how some jobs relate to this general workflow!
+
+![](DSCI_workflow.jpg.jpg)
 
 ## 1: The Data Analyst
 First up is the data analyst. The main role of a data analyst is to interpret historical data in order to inform business decisions. This position will generally tend to work with cleaner, well organized data, and apply basic statistical concepts to derive meaningful results. There are a few factors that separate a data analyst from other roles:
