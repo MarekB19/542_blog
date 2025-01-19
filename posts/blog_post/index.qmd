@@ -1,14 +1,11 @@
 ---
-title: "542 Lab2 Blog"
+title: "So, What Are All Whese Data Science Jobs About Anyways?"
+subtitle: An introductory guide to the careers available in the world of data science
 author: "Marek Boulerice"
 date: "2025-01-18"
-categories: [news, code, analysis]
+categories: [Data Science, Career]
 image: "image.jpg"
 ---
-
-# So what are all these Data science jobs about anyways?
-## An introductory guide to the careers available in the world of data science
-
 
 Data science is a field catching a lot of attention in the media these days. With the advent of chatGPT and other LLMs, it seems like every company is lining up to claim how they’ve “integrated AI” into their product. And for the most part, this attention is well warranted; as a relatively new field, data science is growing at an impressive speed, and has applicability in nearly every work sector. So as with any emerging field, a lot of buzzwords have come out in the last few years, and with them, so have a lot of new sections of the field of data science, and their attached jobs.
 
